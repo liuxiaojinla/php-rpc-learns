@@ -1,11 +1,6 @@
 {
     "name": "ningmei/thrift-learn",
-    "authors": [
-        {
-            "name": "liuxingwu",
-            "email": "657306123@qq.com"
-        }
-    ],
+
     "require": {
         "apache/thrift": "^0.15.0"
     },

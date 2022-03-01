@@ -1,0 +1,11 @@
+{
+    "name": "jin/thrift-symfony",
+
+    "require": {
+        "apache/thrift": "^0.15.0"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
