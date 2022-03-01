@@ -1,0 +1,12 @@
+{
+  "name": "jin/hprose-basic",
+  "description": "基础演示 hprose RPC框架",
+  "require": {
+    "ext-hprose": ">=1.8.0",
+    "hprose/hprose": "^2.0",
+    "ext-sockets": "*"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.4"
+  }
+}
