@@ -1,3 +1,11 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+
+user_rpc_server:
+  path: /rpc
+  controller: App\RPC\Servers\UserServer::serve
+
+user_rpc_client:
+  path: /client
+  controller: App\RPC\Clients\UserClient::call
